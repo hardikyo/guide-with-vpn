@@ -42,8 +42,8 @@
    
    "back_press_ad":"1",
    
-   "qureka_exit":"1",
-   "one_webify_exit":"0",
+   "qureka_exit":"0",
+   "one_webify_exit":"1",
    "gamezop_exit":"0",
    "atme_exit":"0"
 }
