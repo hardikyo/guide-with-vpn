@@ -38,5 +38,12 @@
    "qureka_native":"0",
    "one_webify_native":"0",
    "gamezop_native":"0",
-   "atme_native":"1"
+   "atme_native":"1",
+   
+   "back_press_ad":"1",
+   
+   "qureka_exit":"0",
+   "one_webify_exit":"0",
+   "gamezop_exit":"0",
+   "atme_exit":"0"
 }
