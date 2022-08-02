@@ -15,7 +15,7 @@
    "Admob_Interstitial":"/6499/example/interstitial",
    "Admob_Native":"/6499/example/native",
    "AppOpen":"/6499/example/app-open",
-   "topon_showStatus":"1",
+   "topon_showStatus":"0",
    "topon_appid":"a5aa1f9deda26d",
    "topon_appkey":"4f7b9ac17decb9babec83aac078742c7",
    "topon_banner":"b5baca41a2536f",
@@ -28,7 +28,7 @@
    "qureka_load":"0",
    "one_webify_load":"0",
    "gamezop_load":"0",
-   "atme_load":"1",
+   "atme_load":"0",
    
    "qureka_link":"https://659.live.qureka.com/",
    "one_webify_link":"https://u.technicalbuz.com/znijan/",
@@ -38,7 +38,7 @@
    "qureka_native":"0",
    "one_webify_native":"0",
    "gamezop_native":"0",
-   "atme_native":"1",
+   "atme_native":"0",
    
    "back_press_ad":"1",
    
@@ -48,11 +48,11 @@
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"0",
+   "show_startapp_ad":"1",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob, 2 for startapp, 3 for chrome custom tab",
    
-   "page_one_splash":"0",
+   "page_one_splash":"2",
    "page_two":"0",
    "page_three":"0",
    "page_four":"0",
