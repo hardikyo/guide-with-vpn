@@ -53,9 +53,9 @@
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob, 2 for startapp, 3 for chrome custom tab",
    
    "page_splash":"1",
-   "page_one":"0",
+   "page_one":"1",
    "page_two":"1",
-   "page_three":"0",
-   "page_four":"0"
+   "page_three":"1",
+   "page_four":"1"
    
 }
