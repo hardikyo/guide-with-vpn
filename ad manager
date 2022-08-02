@@ -48,6 +48,13 @@
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"0"
+   "show_startapp_ad":"0",
+   
+   "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob, 2 for startapp, 3 for chrome custom tab",
+   
+   "page_one_splash":"0",
+   "page_two":"0",
+   "page_three":"0",
+   "page_four":"0",
    
 }
