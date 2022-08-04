@@ -3,7 +3,7 @@
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://659.live.qureka.com/",
-   "qureka_splash":"1",
+   "qureka_splash":"0",
    "qureka_status":"1",
    "qureka_ad_status":"0",
    "qureka_splash_link":"https://659.live.qureka.com/",
@@ -25,9 +25,9 @@
    
    "HARDIK":"HARDIK",
    
-   "is_vpn_on":"0",
+   "is_vpn_on":"1",
    
-   "on_create_ad_show":"1",
+   "on_create_ad_show":"0",
    
    "qureka_load":"0",
    "one_webify_load":"0",
