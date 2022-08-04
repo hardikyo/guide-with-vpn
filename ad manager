@@ -31,8 +31,8 @@
    
    "qureka_load":"0",
    "one_webify_load":"0",
-   "gamezop_load":"0",
-   "atme_load":"1",
+   "gamezop_load":"1",
+   "atme_load":"0",
    
    "qureka_link":"https://659.live.qureka.com/",
    "one_webify_link":"https://u.technicalbuz.com/znijan/",
@@ -41,8 +41,8 @@
    
    "qureka_native":"0",
    "one_webify_native":"0",
-   "gamezop_native":"0",
-   "atme_native":"1",
+   "gamezop_native":"1",
+   "atme_native":"0",
    
    "back_press_ad":"1",
    
