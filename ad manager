@@ -44,15 +44,15 @@
    "gamezop_native":"1",
    "atme_native":"0",
    
-   "back_press_ad":"1",
+   "back_press_ad":"0",
    
    "qureka_exit":"0",
    "one_webify_exit":"",
-   "gamezop_exit":"1",
+   "gamezop_exit":"0",
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"0",
+   "show_startapp_ad":"1",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob",
    
