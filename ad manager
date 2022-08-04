@@ -3,13 +3,13 @@
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://659.live.qureka.com/",
-   "qureka_splash":"0",
+   "qureka_splash":"1",
    "qureka_status":"1",
    "qureka_ad_status":"0",
    "qureka_splash_link":"https://659.live.qureka.com/",
    "qureka_splash_status":"0",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
-   "admob_showAdStatus":"0",
+   "admob_showAdStatus":"1",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
    "Admob_Banner":"/6499/example/banner",
    "Admob_Interstitial":"/6499/example/interstitial",
@@ -25,13 +25,13 @@
    
    "HARDIK":"HARDIK",
    
-   "is_vpn_on":"1",
+   "is_vpn_on":"0",
    
-   "on_create_ad_show":"0",
+   "on_create_ad_show":"1",
    
-   "qureka_load":"0",
+   "qureka_load":"1",
    "one_webify_load":"0",
-   "gamezop_load":"1",
+   "gamezop_load":"0",
    "atme_load":"0",
    
    "qureka_link":"https://659.live.qureka.com/",
@@ -46,13 +46,13 @@
    
    "back_press_ad":"0",
    
-   "qureka_exit":"0",
-   "one_webify_exit":"",
+   "qureka_exit":"1",
+   "one_webify_exit":"0",
    "gamezop_exit":"0",
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"1",
+   "show_startapp_ad":"0",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob",
    
