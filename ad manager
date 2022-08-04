@@ -44,7 +44,7 @@
    "gamezop_native":"0",
    "atme_native":"0",
    
-   "back_press_ad":"0",
+   "back_press_ad":"1",
    
    "qureka_exit":"1",
    "one_webify_exit":"0",
