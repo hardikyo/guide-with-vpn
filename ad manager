@@ -23,7 +23,7 @@
    "topon_inter2":"b5baca54674522",
    "topon_native":"b5aa1fa501d9f6",
    
-   "HARDIK":"1",
+   "HARDIK":"0",
    
    "show_manual_inter":"0",
    
@@ -40,7 +40,7 @@
    "atme_link":"https://www.google.co.in/",
    
    "qureka_native":"0",
-   "one_webify_native":"0",
+   "one_webify_native":"1",
    "gamezop_native":"0",
    "atme_native":"0",
    
@@ -52,7 +52,7 @@
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"1",
+   "show_startapp_ad":"0",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob",
    
